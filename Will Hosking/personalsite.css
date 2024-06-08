@@ -1,0 +1,54 @@
+.header{
+    font-family: Arial, sans-serif;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+section{
+    background-color: #C9A182;
+}
+
+.images{
+    margin-top: 50px;
+}
+
+
+
+.hobbies {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.hobby {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.hobby img {
+    width: 300px;
+    height: auto;
+    margin: 0 20px;
+}
+
+.hobby p {
+    max-width: 400px;
+}
